@@ -1,4 +1,4 @@
-# FoodManChu
+# RecipeApp
 
 ## Screenshots
 ![RecipeApp(1)](https://user-images.githubusercontent.com/82785695/180651512-af2595ca-e2b1-451c-b242-49dec4ffba48.png)
