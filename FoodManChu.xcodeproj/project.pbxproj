@@ -93,16 +93,16 @@
 			children = (
 				3398A8382877997900BB9F7F /* AppDelegate.swift */,
 				3398A83A2877997900BB9F7F /* SceneDelegate.swift */,
-				3398A85328779A9A00BB9F7F /* Model */,
-				3398A85228779A9500BB9F7F /* View */,
-				3398A85128779A8E00BB9F7F /* Controller */,
-				3398A85028779A8600BB9F7F /* Utils */,
-				3398A84F28779A7E00BB9F7F /* CoreData */,
 				3398A83E2877997900BB9F7F /* Main.storyboard */,
 				3398A8462877997A00BB9F7F /* LaunchScreen.storyboard */,
 				3398A8442877997A00BB9F7F /* Assets.xcassets */,
 				3398A8492877997A00BB9F7F /* Info.plist */,
 				3398A8412877997900BB9F7F /* FoodManChu.xcdatamodeld */,
+				3398A85328779A9A00BB9F7F /* Model */,
+				3398A85228779A9500BB9F7F /* View */,
+				3398A85128779A8E00BB9F7F /* Controller */,
+				3398A85028779A8600BB9F7F /* Utils */,
+				3398A84F28779A7E00BB9F7F /* CoreData */,
 			);
 			path = FoodManChu;
 			sourceTree = "<group>";
@@ -460,6 +460,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -489,6 +490,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
